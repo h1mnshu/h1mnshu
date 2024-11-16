@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/h1mnshu" target="blank"><img src="https://img.shields.io/twitter/follow/h1mnshu?logo=twitter&style=for-the-badge" alt="h1mnshu" /></a> </p>
 
-- 🌱 I’m currently learning **Ai & Ml**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **frontend development**
 
