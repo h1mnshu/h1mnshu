@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **frontend development**
 
-- 📫 How to reach me **himanshulve@hotmail.com**
+- 📫 How to reach me **h1mnshu@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
